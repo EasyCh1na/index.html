@@ -4,7 +4,7 @@
 
 ## 🚀 Онлайн-демо
 
-👉 [Сайт на Vercel](https://easychinashop.vercel.app)
+👉 [Сайт на Vercel](https://vercel.com/dimas-projects-48d7b6eb/index-html.)
 
 ## 📁 Структура проекта
 
@@ -30,6 +30,6 @@
 
 ## ✍️ Автор
 
-- Telegram: [@EA$Y CHINA CATALOG](https://t.me/EA$Y CHINA CATALOG)
+- Telegram: [@EA$YCHINACATALOG](https://t.me/EA$YCHINACATALOG)
 - GitHub: [EasyCh1na](https://github.com/EasyCh1na)
 - Telegram: [maneger_Dim](https//t.me/maneger_Dim)

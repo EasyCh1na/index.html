@@ -4,7 +4,7 @@
 
 ## 🚀 Онлайн-демо
 
-👉 [Сайт на Vercel](https://vercel.com/dimas-projects-48d7b6eb/index-html.)
+👉 [Сайт на Vercel](https://index-html-umber-two.vercel.app/)
 
 ## 📁 Структура проекта
 
